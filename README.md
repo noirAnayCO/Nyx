@@ -1,3 +1,22 @@
+<div align="center" style="text-align: justify;">
+
+```  _   ___     ____   __
+ | \ | \ \   / /\ \ / /
+ |  \| |\ \_/ /  \ V / 
+ | . ` | \   /    > <  
+ | |\  |  | |    / . \ 
+ |_| \_|  |_|   /_/ \_\
+
+```
+Nyx is a low-level, statically typed systems programming language
+
+[![CI](https://github.com/noirAnayCO/nyx/actions/workflows/ci.yml/badge.svg)](https://github.com/noirAnayCO/nyx/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Status: Early Development](https://img.shields.io/badge/status-early%20development-orange)](#)
+
+</div>
+_____
+
 # Nyx
 PRD: Nyx
 
